@@ -1863,12 +1863,6 @@ a {
     top: 0.75rem;
     right: 0.75rem;
   }
-
-  .modal-sec-img {
-    height: auto;
-    aspect-ratio: 340 / 280;
-    max-height: 30vh;
-  }
 }
 
 /* Premium Scroll Fly-In Animations */
