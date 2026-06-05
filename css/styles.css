@@ -134,11 +134,11 @@ a {
 .nav-brand svg,
 .nav-brand img,
 .nav-logo {
-  width: 85px;
-  height: 85px;
+  width: 70px;
+  height: 70px;
   object-fit: contain;
   filter: drop-shadow(0 0 5px rgba(201, 162, 75, 0.3));
-  transform: translateY(5px);
+  transform: translateY(0);
 }
 
 .nav-brand svg {
