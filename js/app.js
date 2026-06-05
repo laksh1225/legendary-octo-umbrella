@@ -204,7 +204,7 @@ const committeesData = {
     shortName: "JCC",
     fullName: "Joint Crisis Committee",
     logo: "images/JCC.png",
-    agenda: "Indo-Pak Geopolitical Crisis: Navigating Border Security, Cyber Escalations, and Real-Time Strategic Diplomatic Maneuvers",
+    agenda: "Korean War (1950 - 1953): Cold War proxy conflict sparked by North Korea’s invasion of the South, featuring UN intervention and superpower rivalry.",
     eb: [
       {
         name: "Sanjitha Moka",
