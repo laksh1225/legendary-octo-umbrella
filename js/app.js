@@ -132,7 +132,7 @@ const committeesData = {
         name: "Sai Karthik",
         role: "Vice chair",
         image: "images/karthik.jpeg",
-        bio: "Meet Sai Karthik, the EIC for agnira mun and a B-Tech Computer Science student with a surprising soft spot for everything *but* science. Active in the Hyderabad MUN circuit for over a year, he thrives in unconventional committees like the World Economic Forum and rare ones like UNHCR, with UNHRC being his favourite playground. Passionate about geopolitics, creative writing, and nature photography, he loves the chaos and camaraderie of drafting resolutions and meeting new people. Armed with a wacky sense of humour, he lightens even the tensest debates. Weirdly punctual by his “earlier the better” rule, he also proudly lives by *How I Met Your Mother* quotes."
+        bio: "Meet Sai Karthik,  the vice chair of disec for Req mun 3.0  and a B-Tech Computer Science student with a surprising soft spot for everything *but* science. Active in the Hyderabad MUN circuit for over a year, he thrives in unconventional committees like the World Economic Forum and rare ones like UNHCR, with UNHRC being his favorite playground. Passionate about geopolitics, creative writing, and nature photography, he loves the chaos and camaraderie of drafting resolutions and meeting new people. Armed with a wacky sense of humor, he lightens even the tensest debates. Weirdly punctual by his “earlier the better” rule, he also proudly lives by *How I Met Your Mother* quotes."
       },
       {
         name: "Yashitha Bhavani Nandiknati",
